@@ -7,6 +7,8 @@ int main ()
    cout <<"Input list ...\n";
    for(i = 0; i<10; i++) {
       cout <<a[i]<<"\t";
+
+      sdkjfhsdkjfhs
    }
 cout<<endl;
 for(i = 0; i<10; i++) {
